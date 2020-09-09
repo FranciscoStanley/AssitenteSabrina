@@ -1,3 +1,3 @@
 # assistenteSabrina
 
-Assistente virtual com Arduino.
+Assistente virtual com  Python e Arduino.
